@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "+yO8m7wQOcFzjwgCH2IHeTWeao2jePT9biOLVKRXYs8=",
+  "Source": "ProjetoTechInterview.Server",
+  "BasePath": "_content/ProjetoTechInterview.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\r1cky\\source\\repos\\ProjetoTechInterview\\projetoTechInterview.client\\projetoTechInterview.client.esproj",
+      "Version": 2,
+      "Source": "projetoTechInterview.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

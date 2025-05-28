@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\r1cky\\source\\repos\\ProjetoTechInterview\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B0A6CC-60D9-A324-B7E1-AE71AD2ED46B}|projetoTechInterview.client\\projetoTechInterview.client.esproj|c:\\users\\r1cky\\source\\repos\\projetoTechInterview\\projetoTechInterview.client\\src\\components\\tasklist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E8B0A6CC-60D9-A324-B7E1-AE71AD2ED46B}|projetoTechInterview.client\\projetoTechInterview.client.esproj|solutionrelative:projetoTechInterview.client\\src\\components\\tasklist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B0A6CC-60D9-A324-B7E1-AE71AD2ED46B}|projetoTechInterview.client\\projetoTechInterview.client.esproj|c:\\users\\r1cky\\source\\repos\\projetoTechInterview\\projetoTechInterview.client\\src\\components\\taskform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E8B0A6CC-60D9-A324-B7E1-AE71AD2ED46B}|projetoTechInterview.client\\projetoTechInterview.client.esproj|solutionrelative:projetoTechInterview.client\\src\\components\\taskform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B0A6CC-60D9-A324-B7E1-AE71AD2ED46B}|projetoTechInterview.client\\projetoTechInterview.client.esproj|c:\\users\\r1cky\\source\\repos\\projetoTechInterview\\projetoTechInterview.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E8B0A6CC-60D9-A324-B7E1-AE71AD2ED46B}|projetoTechInterview.client\\projetoTechInterview.client.esproj|solutionrelative:projetoTechInterview.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91828E5F-904C-4EC7-8C35-FC18366D80F9}|ProjetoTechInterview.Server\\ProjetoTechInterview.Server.csproj|c:\\users\\r1cky\\source\\repos\\projetoTechInterview\\projetoTechInterview.server\\controllers\\tasklistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91828E5F-904C-4EC7-8C35-FC18366D80F9}|ProjetoTechInterview.Server\\ProjetoTechInterview.Server.csproj|solutionrelative:projetoTechInterview.server\\controllers\\tasklistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 71,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\r1cky\\source\\repos\\ProjetoTechInterview\\projetoTechInterview.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "projetoTechInterview.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\r1cky\\source\\repos\\ProjetoTechInterview\\projetoTechInterview.client\\src\\App.jsx",
+              "RelativeToolTip": "projetoTechInterview.client\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-04-05T18:32:18.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskForm.jsx",
+              "DocumentMoniker": "C:\\Users\\r1cky\\source\\repos\\ProjetoTechInterview\\projetoTechInterview.client\\src\\components\\TaskForm.jsx",
+              "RelativeDocumentMoniker": "projetoTechInterview.client\\src\\components\\TaskForm.jsx",
+              "ToolTip": "C:\\Users\\r1cky\\source\\repos\\ProjetoTechInterview\\projetoTechInterview.client\\src\\components\\TaskForm.jsx",
+              "RelativeToolTip": "projetoTechInterview.client\\src\\components\\TaskForm.jsx",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-04-05T18:32:13.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskList.jsx",
+              "DocumentMoniker": "C:\\Users\\r1cky\\source\\repos\\ProjetoTechInterview\\projetoTechInterview.client\\src\\components\\TaskList.jsx",
+              "RelativeDocumentMoniker": "projetoTechInterview.client\\src\\components\\TaskList.jsx",
+              "ToolTip": "C:\\Users\\r1cky\\source\\repos\\ProjetoTechInterview\\projetoTechInterview.client\\src\\components\\TaskList.jsx",
+              "RelativeToolTip": "projetoTechInterview.client\\src\\components\\TaskList.jsx",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-04-05T18:32:08.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskListController.cs",
+              "DocumentMoniker": "C:\\Users\\r1cky\\source\\repos\\ProjetoTechInterview\\ProjetoTechInterview.Server\\Controllers\\TaskListController.cs",
+              "RelativeDocumentMoniker": "ProjetoTechInterview.Server\\Controllers\\TaskListController.cs",
+              "ToolTip": "C:\\Users\\r1cky\\source\\repos\\ProjetoTechInterview\\ProjetoTechInterview.Server\\Controllers\\TaskListController.cs",
+              "RelativeToolTip": "ProjetoTechInterview.Server\\Controllers\\TaskListController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAIwHAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:57:06.675Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
