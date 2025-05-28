@@ -3,10 +3,10 @@ PT-BR | EN
 
 📌 Descrição do Projeto | Project Description
 PT-BR:
-Este projeto foi desenvolvido como parte de um teste técnico para a posição de Desenvolvedor .NET Júnior. O objetivo principal é demonstrar proficiência em tecnologias .NET, práticas de desenvolvimento e organização de código.
+Este projeto foi desenvolvido como parte de um teste técnico para a posição de Desenvolvedor .NET Júnior.
 
 EN:
-This project was developed as part of a technical assessment for a Junior .NET Developer position. The main goal is to showcase proficiency in .NET technologies, development practices, and code organization.
+This project was developed as part of a technical assessment for a Junior .NET Developer position. 
 
 🚀 Funcionalidades | Features
 PT-BR:
